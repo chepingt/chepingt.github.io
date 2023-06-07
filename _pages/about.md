@@ -40,4 +40,5 @@ Previously, I completed my M.S. degree in Computer Science & Information Enginee
   - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="https://andrejristeski.github.io/10708-22/">10708 - Probablistic Graphical Models</a></span> <span style="flex:  0 0 auto"><i>CMU, Spring 2022</i></span></p>
 - Peer review 
   - Neurips 2023
-  -AISTATS 2022, 2023
+  - AISTATS 2022, 2023
+  - JMLR

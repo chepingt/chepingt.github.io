@@ -20,15 +20,19 @@ Previously, I completed my M.S. degree in Computer Science & Information Enginee
 # Selected Publications
 
 - **Representer Point Selection for Explaining Regularized High-dimensional Models**<br/>
- <u>C.-P. Tsai<u>, J. Zhang, H.-F. Yu, E. Chien, C.-J. Hsieh, P. Ravikumar<br/>
-    *In ICML 2023*<br/>
+ <u>C.-P. Tsai<u>, J. Zhang, H.-F. Yu, E. Chien, C.-J. Hsieh, P. Ravikumar.<br/>
+ *In International Conference on Machine Learning (ICML) 39, 2023*<br/>
  [[paper](https://arxiv.org/abs/2204.02492](https://arxiv.org/abs/2305.20002) | [code](https://github.com/chepingt/High-dimensional-Representer)]
 
 - **Faith-Shap: The Faithful Shapley Interaction Index**<br/>
  <u>C.-P. Tsai<u>, C.-K. Yeh, P. Ravikumar.<br/>
-    *Journal of Machine Learning Research (JMLR), Vol. 24 (94), pages 1-42, 2023.*<br/>
+ *Journal of Machine Learning Research (JMLR), Vol. 24 (94), pages 1-42, 2023.*<br/>
  [[paper](https://www.jmlr.org/papers/volume24/22-0202/22-0202.pdf) | [code](https://github.com/chepingt/Faith-Shap)]  
 
+- **UAVM: A Unified Model for Audio-Visual Learning**<br/>
+    Yuan Gong, <u>Alexander H. Liu</u>, Andrew Rouditchenko, James Glass<br/>
+    *Preprint*<br/>
+    [ [paper](https://arxiv.org/abs/2208.00061)]
  
 - **Heavy-tailed streaming statistical estimation**<br/>
  <u>C.-P. Tsai<u>,A. Prasad, S. Balakrishnan, P. Ravikumar.<br/>

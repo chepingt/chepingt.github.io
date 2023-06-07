@@ -25,7 +25,7 @@ Before joining Carnegie Mellon University, I completed my M.S. degree in Compute
 
 - **Representer Point Selection for Explaining Regularized High-dimensional Models**<br/>
  <u>Che-Ping Tsai<u>, Jiong Zhang, Eli Chien, Hsiang-Fu Yu, Cho-Jui Hsieh, Pradeep Ravikumar<br/>
-    *To appear at ICML 2023*<br/>
+    *To appear in ICML 2023*<br/>
   [[paper]([https://arxiv.org/abs/2204.02492](https://arxiv.org/abs/2305.20002)) | [code](https://github.com/chepingt/High-dimensional-Representer)]
 
 # Teaching

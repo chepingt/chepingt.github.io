@@ -14,7 +14,7 @@ redirect_from:
 
 I'm a third year PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University advised by [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/). My research focuses on developing principled and practical algorithms in Artitifical Intelligence (AI). Recently, I work on understanding and interpreting machine learning models through the analysis of training data.
 
-Previously, I completed my M.S. degree in Computer Science & Information Engineering (CSIE) at National Taiwan University (NTU). I was a member of the Speech Processing Lab working with [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/). During my undergrad years, I pursued a dual major in Electrical Engineering and Mathematics at NTU.
+Previously, I completed my M.S. degree in Computer Science & Information Engineering (CSIE) at National Taiwan University (NTU). I was a member of the Speech Processing Lab working with [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php). During my undergrad years, I pursued a dual major in Electrical Engineering and Mathematics at NTU.
 
 
 # Selected Publications

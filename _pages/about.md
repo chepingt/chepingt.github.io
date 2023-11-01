@@ -22,7 +22,7 @@ Previously, I completed my M.S. degree in Computer Science & Information Enginee
 - **Sample based Explanations via Generalized Representers**<br/>
  <u>C.-P. Tsai</u>, C.-K. Yeh, P. Ravikumar.<br/>
  *In Advances in Neural Information Processing Systems (NeurIPS) 36, 2023.*<br/>
- [[paper and codes coming out soon!]]
+ [[paper](https://arxiv.org/abs/2310.18526)]
 
 - **Representer Point Selection for Explaining Regularized High-dimensional Models**<br/>
  <u>C.-P. Tsai</u>, J. Zhang, H.-F. Yu, E. Chien, C.-J. Hsieh, P. Ravikumar.<br/>

@@ -12,7 +12,7 @@ redirect_from:
 
 # Bio
 
-I'm a fourth year PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University advised by [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/). My research focuses on developing principled and practical algorithms in Artitifical Intelligence (AI). Recently, I work on understanding and interpreting machine learning models through the analysis of training data.
+I'm a fourth year PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University advised by [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/). I am generally interested in developing principled and practical algorithms in Artitifical Intelligence (AI). My current focus involves delving into the mechanisms by which neural networks store knowledge and devising methods to extract this knowledge. The goal is to make AI systems more interpretable and reliable, so we can address alignment challenges.
 
 Previously, I completed my M.S. degree in Computer Science & Information Engineering (CSIE) at National Taiwan University (NTU). I was a member of the Speech Processing Lab working with [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php). During my undergrad years, I pursued a dual major in Electrical Engineering and Mathematics at NTU.
 
@@ -37,12 +37,24 @@ Previously, I completed my M.S. degree in Computer Science & Information Enginee
 - **Heavy-tailed streaming statistical estimation**<br/>
  <u>C.-P. Tsai</u>,A. Prasad, S. Balakrishnan, P. Ravikumar.<br/>
  *In International Conference on Artificial Intelligence and Statistics (AISTATS) 25, 2022 (Oral).*<br/>
- [[paper](https://proceedings.mlr.press/v151/tsai22a.html)]  
-   
+ [[paper](https://proceedings.mlr.press/v151/tsai22a.html)]
+
+
+# Work experience
+- Applied Scientist Intern, Amazon Search team, May. 2022 – Aug. 2022, advised by [Hsiang-Fu Yu](https://www.cs.utexas.edu/~rofuyu/) and [Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/)
+  - Project: [Explainable Recommender Systems](https://openreview.net/pdf?id=GLI2hX4vxx)
+ 
+- Research Intern, Microsoft, Taiwan AI center, Mar. 2020 – July 2020, advised by [Bo-June (Paul) Hsu](https://www.microsoft.com/en-us/research/people/paulhsu/)
+  - Project: Receipt Understanding
+
 # Services
 - Teaching 
   - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="https://andrejristeski.github.io/10708-F22/">10708 - Probablistic Graphical Models</a></span> <span style="flex:  0 0 auto"><i>CMU, Fall 2022</i></span></p>
   - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="https://andrejristeski.github.io/10708-22/">10708 - Probablistic Graphical Models</a></span> <span style="flex:  0 0 auto"><i>CMU, Spring 2022</i></span></p>
+  - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of Advanced Deep Learning [CSIE7430] </a></span> <span style="flex:  0 0 auto"><i>NTU, Spring 2018</i></span></p>
+   - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of Machine Learning [EE5184] </a></span> <span style="flex:  0 0 auto"><i>NTU, Spring 2017</i></span></p>
+
+  
 - Peer review 
   - Neurips 2023
   - AISTATS 2022, 2023

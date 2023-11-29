@@ -51,8 +51,8 @@ Previously, I completed my M.S. degree in Computer Science & Information Enginee
 - Teaching 
   - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="https://andrejristeski.github.io/10708-F22/">10708 - Probablistic Graphical Models</a></span> <span style="flex:  0 0 auto"><i>CMU, Fall 2022</i></span></p>
   - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="https://andrejristeski.github.io/10708-22/">10708 - Probablistic Graphical Models</a></span> <span style="flex:  0 0 auto"><i>CMU, Spring 2022</i></span></p>
-  - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of Advanced Deep Learning [CSIE7430] </span> <span style="flex:  0 0 auto"><i>NTU, Spring 2018</i></span></p>
-   - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of Machine Learning [EE5184] </span> <span style="flex:  0 0 auto"><i>NTU, Spring 2017</i></span></p>
+  - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of CSIE7430 - Advanced Deep Learning  </span> <span style="flex:  0 0 auto"><i>NTU, Spring 2018</i></span></p>
+   - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of EE5184 - Machine Learning  </span> <span style="flex:  0 0 auto"><i>NTU, Spring 2017</i></span></p>
 
   
 - Peer review 

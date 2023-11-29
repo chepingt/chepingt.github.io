@@ -12,7 +12,7 @@ redirect_from:
 
 # Bio
 
-I'm a fourth year PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University advised by [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/). I am generally interested in developing principled and practical algorithms in Artitifical Intelligence (AI). My current focus involves delving into the mechanisms by which neural networks store knowledge and devising methods to extract this knowledge. The goal is to make AI systems more interpretable and reliable, so we can address alignment challenges.
+I'm a fourth year PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University advised by [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/). I am generally interested in developing principled and practical algorithms in Artificial Intelligence (AI). My current focus involves delving into the mechanisms by which neural networks store knowledge and devising methods to extract this knowledge. The goal is to make AI systems more interpretable and reliable, so we can address alignment challenges.
 
 Previously, I completed my M.S. degree in Computer Science & Information Engineering (CSIE) at National Taiwan University (NTU). I was a member of the Speech Processing Lab working with [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php). During my undergrad years, I pursued a dual major in Electrical Engineering and Mathematics at NTU.
 

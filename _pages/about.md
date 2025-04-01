@@ -22,7 +22,7 @@ Previously, I completed my M.S. degree in Computer Science & Information Enginee
 - **AnoLLM: Large Language Models for Tabular Anomaly Detection**<br/>
  <u>Che-Ping Tsai</u>, Phil Wallis, Ganyu Teng, Wei Ding.<br/>
  *In International Conference on Learning Representations (ICLR), 2025.*<br/>
- [[paper](https://openreview.net/forum?id=7VkHffT5X2) | [code]]
+ [[paper](https://openreview.net/forum?id=7VkHffT5X2) | [code](https://github.com/amazon-science/AnoLLM-large-language-models-for-tabular-anomaly-detection)]
 
 - **Sample based Explanations via Generalized Representers**<br/>
  <u>Che-Ping Tsai</u>, Chih-Kuan Yeh, Pradeep Ravikumar.<br/>

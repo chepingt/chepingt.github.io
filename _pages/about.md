@@ -19,6 +19,11 @@ Previously, I completed my M.S. degree in Computer Science & Information Enginee
 
 # Publications
 
+- **Contextures: Representations from Contexts**<br/>
+  Runtian Zhai*, Kai Yang*, <u>Che-Ping Tsai*</u>, Burak Varici*, Zico Kolter, Pradeep Ravikumar<br/>
+*In International Conference on Machine Learning (ICML), 2025*<br/>
+ [[paper](https://arxiv.org/abs/2505.01557)]
+
 - **AnoLLM: Large Language Models for Tabular Anomaly Detection**<br/>
  <u>Che-Ping Tsai</u>, Phil Wallis, Ganyu Teng, Wei Ding.<br/>
  *In International Conference on Learning Representations (ICLR), 2025.*<br/>

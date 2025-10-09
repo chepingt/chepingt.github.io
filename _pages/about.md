@@ -12,9 +12,12 @@ redirect_from:
 
 # Bio
 
-I'm a fifth year PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University advised by [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/). My research centers around statistical machine learning, with a focus on developing principal algorithms for interpretability and Self-Supervised Learning. I interned at Amazon as an applied scientist, where I worked on large language models for tabular data and recommender systems.
+I'm a final-year PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University, advised by [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/). My research centers around statistical machine learning, with a focus on developing principal algorithms for representation learning and interpretability. I interned at Amazon as an applied scientist, where I worked on large language models for tabular data and recommender systems.
 
-Previously, I completed my M.S. degree in Computer Science & Information Engineering (CSIE) at National Taiwan University (NTU). I was a member of the Speech Processing Lab working with [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php), working on speech recognition and multi-label classification. During my undergrad years, I pursued a dual major in Electrical Engineering and Mathematics at NTU.
+Previously, I completed my M.S. degree in Computer Science & Information Engineering (CSIE) at National Taiwan University (NTU). I was a member of the Speech Processing Lab working with [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php), working on speech recognition and multi-label classification. During my undergrad years, I pursued a dual major in Electrical Engineering and Mathematics at NTU. I used to compete in mathematics and programming contests, earning two [silver medals](https://www.imo-official.org/participant_r.aspx?id=20742) at the IMO and placing among the top 30 participants in the national IOI training camp.
+
+<span style="color:red">I'm on the industry job market, seeking research scientist positions starting Jan/Feb 2026! Feel free to email me if there's a fit! Here's my [CV](files/resume.pdf)</span>.
+
 
 
 # Publications
@@ -84,9 +87,9 @@ Multi-class Classification**<br/>
   - Project: Receipt Understanding
  
 # Awards
-- [Silver Medal](https://www.imo-official.org/participant_r.aspx?id=20742), 53nd International Mathematical Olympiad(IMO), Mar del Plata, Argentina, 2012.
+- [Silver Medal](https://www.imo-official.org/participant_r.aspx?id=20742), 53rd International Mathematical Olympiad(IMO), Mar del Plata, Argentina, 2012.
   
-- [Silver Medal](https://www.imo-official.org/participant_r.aspx?id=20742), 53nd International Mathematical Olympiad(IMO), Amsterdam, Netherland, 2011.
+- [Silver Medal](https://www.imo-official.org/participant_r.aspx?id=20742), 52nd International Mathematical Olympiad(IMO), Amsterdam, Netherland, 2011.
 
 # Services
 - Teaching 
@@ -96,4 +99,4 @@ Multi-class Classification**<br/>
    - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of EE5184 - Machine Learning  </span> <span style="flex:  0 0 auto"><i>NTU, Spring 2017</i></span></p>
 
   
-- Peer review: Neurips 2023/2024, ICML 2024, ICLR 2025, AISTATS 2022/2023/2024, JMLR
+- Peer review: Neurips 2023/2024/2025, ICML 2024, ICLR 2025, AISTATS 2022/2023/2024/2025, JMLR

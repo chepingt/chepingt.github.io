@@ -22,14 +22,14 @@ Previously, I completed my M.S. degree in Computer Science & Information Enginee
 
 # Publications
 - **Eigenfunction Extraction for Ordered Representation Learning**<br/>
-  <u>Che-Ping Tsai*</u>, Burak Varici*, Ritabrata Ray, Nicholas Boffi, Pradeep Ravikumar<br/>
-*Under submission to AISTATS 2026*<br/>
+ <u>Che-Ping Tsai*</u>, Burak Varici*, Ritabrata Ray, Nicholas Boffi, Pradeep Ravikumar<br/>
+ *Under submission to AISTATS 2026. *<br/>
  [[preprint](https://arxiv.org/abs/2505.01557)]
 
 
 - **Contextures: Representations from Contexts**<br/>
-  Runtian Zhai*, Kai Yang*, <u>Che-Ping Tsai*</u>, Burak Varici*, Zico Kolter, Pradeep Ravikumar<br/>
-*In International Conference on Machine Learning (ICML), 2025*<br/>
+ Runtian Zhai*, Kai Yang*, <u>Che-Ping Tsai*</u>, Burak Varici*, Zico Kolter, Pradeep Ravikumar<br/>
+ *In International Conference on Machine Learning (ICML), 2025.*<br/>
  [[paper](https://arxiv.org/abs/2505.01557)]
 
 - **AnoLLM: Large Language Models for Tabular Anomaly Detection**<br/>

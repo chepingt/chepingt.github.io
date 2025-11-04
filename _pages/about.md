@@ -24,7 +24,7 @@ Previously, I completed my M.S. degree in Computer Science & Information Enginee
 - **Eigenfunction Extraction for Ordered Representation Learning**<br/>
  <u>Che-Ping Tsai*</u>, Burak Varici*, Ritabrata Ray, Nicholas Boffi, Pradeep Ravikumar<br/>
  *Under submission to AISTATS 2026. *<br/>
- [[preprint](https://arxiv.org/abs/2505.01557)]
+ [[preprint](https://arxiv.org/abs/2510.24672)]
 
 
 - **Contextures: Representations from Contexts**<br/>

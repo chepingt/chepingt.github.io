@@ -16,7 +16,7 @@ I'm a final-year PhD student in the [Machine Learning Department](https://www.ml
 
 Previously, I completed my M.S. degree in Computer Science & Information Engineering (CSIE) at National Taiwan University (NTU). I was a member of the Speech Processing Lab working with [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php), working on speech recognition and multi-label classification. During my undergrad years, I pursued a dual major in Electrical Engineering and Mathematics at NTU. I used to compete in mathematics and programming contests, earning two [silver medals](https://www.imo-official.org/participant_r.aspx?id=20742) at the IMO and placing among the top 30 participants in the national IOI training camp.
 
-<span style="color:red">I'm on the industry job market, seeking research scientist positions starting Jan/Feb 2026! Feel free to email me if there's a fit! Here's my [CV](files/resume.pdf)</span>.
+# <span style="color:red">I'm on the industry job market, seeking research scientist positions starting Jan/Feb 2026! Feel free to email me if there's a fit! Here's my [CV](files/resume.pdf)</span>.
 
 
 

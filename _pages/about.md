@@ -12,7 +12,7 @@ redirect_from:
 
 # Bio
 
-I'm a final-year PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University, advised by [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/). My research centers around statistical machine learning, with a focus on developing principal algorithms for representation learning and interpretability. I interned at Amazon as an applied scientist, where I worked on large language models for tabular data and recommender systems.
+I received my PhD in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University, advised by [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/). My PhD research centers around statistical machine learning, with a focus on developing principal algorithms for representation learning and interpretability. I interned at Amazon as an applied scientist, where I worked on large language models for tabular data and recommender systems.
 
 Previously, I completed my M.S. degree in Computer Science & Information Engineering (CSIE) at National Taiwan University (NTU). I was a member of the Speech Processing Lab working with [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php), working on speech recognition and multi-label classification. During my undergrad years, I pursued a dual major in Electrical Engineering and Mathematics at NTU. I used to compete in mathematics and programming contests, earning two [silver medals](https://www.imo-official.org/participant_r.aspx?id=20742) at the IMO and placing among the top 30 participants in the national IOI training camp.
 
@@ -22,7 +22,7 @@ Previously, I completed my M.S. degree in Computer Science & Information Enginee
 # Publications
 - **Eigenfunction Extraction for Ordered Representation Learning**<br/>
  <u>Che-Ping Tsai*</u>, Burak Varici*, Ritabrata Ray, Nicholas Boffi, Pradeep Ravikumar<br/>
- *Under submission to AISTATS 2026. *<br/>
+ *Preprint*<br/>
  [[preprint](https://arxiv.org/abs/2510.24672)]
 
 
